@@ -1,21 +1,24 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **量化策略实习生**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**2025.7 – 2025.9 | 燧石资产管理有限公司**
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+负责1sTick股票高频因子的挖掘与检验，专注于因子的金融学逻辑和回测表现。参与ETF底仓调优项目，优化产品票池结构，在风险承受范围内最大限度提升产品收益。
+
+#### 具体贡献:
+
+- 独立设计并迭代开发基于**订单簿微观结构的Alpha因子**，通过刻画买卖双方在主动成交与高档位挂单中的不对称压力，构建具有前瞻性的多空信号；
+- 因子在**创业板样本**内回测 (2024.07–2025.07) 实现**年化收益率 2.33\%**、**夏普比率 2.41**，60秒**IC均值达 7.7\%–9.6\%**，且与现有因子库相关性低于 0.7，具备显著增量信息。
+- 基于手工T0交易员提供的加/减仓票池 (Pool1/Pool2)，设计并实现“**市值权重降序减仓**”调仓逻辑，在控制跟踪误差 (TE ≈ 0.0028) 前提下，将产品年化收益率由 3.08\% 提升至 4.63\%(加仓4倍)；进一步测算极限调仓场景，验证在风险可控范围内可实现 6.18\% 年化收益，为产品达标6\%收益目标提供量化支撑。
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **实习分析师**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+**2023年11月 – 2024年3月 | 东吴证券研究所**
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+负责食品饮料行业（调味品&乳制品）数据的收集与整理，以及深度研究报告的撰写。
+
+#### 具体贡献:
+
+- 深度参与两家上市公司研究报告和调味品策略报告的撰写，具体工作内容包括数据整理与图表绘制、数据分析与报告撰写、合规底稿的制作与整理。按时按规完成三篇研究报告中负责部分的撰写和修改，撰写内容20000字+。
+- 借助Wind、iFinD、欧睿等平台，搜集整理公司数据，包括:内部控制、财务数据、业务规划（产品渠道），绘制关键图表(Excel、PPT)，分析公司发展变动情况；参与上市公司交流会议，记录会议关键信息，如企业盈利预期、渠道扩张以及品牌建设规划。
