@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![BiQiBaoWinner](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+目前就读于厦门大学经济学院金融系，本科毕业于西南财经大学投资学。具备扎实的数理基础和编程能力(Python)，有过多项包括美赛在内的数学建模获奖经历，全国大学生数学竞赛一等奖。
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### 邮箱
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+`<code>`zhaoyb0715@163.com `</code>`
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### 教育背景
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**西南财经大学**,，财政税务学院，投资学 (2020 – 2024)
+•**主修课程**：投资学、统计学、金融风险管理、计量经济学、商务大数据分析、公司金融、财务分析
 
-#### Research Interests  
-XX, XX, XX, XX.
+**厦门大学**,，经济学院，金融专硕 (2024 – 至今) `<br>`
+• **主修课程**：高级计量经济学、高级宏观经济学、高级微观经济学、高级公司金融、金融计量、大数据与量化投资
+
+#### 研究方向
+
+量化投资、因子挖掘、强化学习、大语言模型
