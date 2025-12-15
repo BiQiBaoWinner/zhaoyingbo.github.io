@@ -4,9 +4,10 @@
 
 负责1sTick股票高频因子的挖掘与检验，专注于因子的金融学逻辑和回测表现。参与ETF底仓调优项目，优化产品票池结构，在风险承受范围内最大限度提升产品收益。
 
-![分层表现](./static/assets/img/FZYB003001levels.png)
+<img src="../static/assets/img/FZYB003001levels.png" alt="分层表现" style="width:100%;">
 
-![相关性均值时序图](./static/assets/img/FZYB003001ic_avg.png)
+<img src="../static/assets/img/FZYB003001ic_avg.png" alt="IC表现" style="width:100%;">
+
 
 #### 具体贡献:
 
