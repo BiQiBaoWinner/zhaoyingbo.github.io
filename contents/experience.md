@@ -8,19 +8,13 @@
   <img src="../static/assets/img/FZYB003001levels.png" alt="分层表现" style="width:30%; display:inline-block;">
   <img src="../static/assets/img/FZYB003001ic_avg.png" alt="IC表现" style="width:30%; display:inline-block;">
   <img src="../static/assets/img/FZYB003001_pnl_plot_45_3.png" alt="产品表现" style="width:30%; display:inline-block;">
-</div
-
-
+</div>
 
 <div style="text-align:center;">
   <img src="..\static\assets\img\FZYB003001_S.CN.SZSE.000504.png" alt="涨停表现" style="width:30%; display:inline-block;">
   <img src="..\static\assets\img\FZYB003001_S.CN.SZSE.000906.png" alt="震荡表现" style="width:30%; display:inline-block;">
   <img src="..\static\assets\img\FZYB003001_S.CN.SZSE.301589.png" alt="跌停表现" style="width:30%; display:inline-block;">
-</div
-
-
-
-
+</div>
 
 #### 具体贡献:
 
@@ -31,7 +25,6 @@
 <div style="text-align:center;">
   <img src="../static/assets/img/ETFbaseadjust.png" alt="产品表现" style="width:30%;">
 </div>
-
 
 ---
 
